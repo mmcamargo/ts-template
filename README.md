@@ -1,1 +1,1 @@
-# typescript-custom-template
+# Custom template for TypeScript projects.
