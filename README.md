@@ -1,1 +1,1 @@
-# Custom template for TypeScript projects.
+# Template personalizado para projetos em TypeScript.
